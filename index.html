@@ -26,11 +26,6 @@
             border-radius: 10px;
             margin-left: 5px;
         }
-         /* #controls button:hover{
-            box-shadow: 12px 12px 16px 12px rgba(71, 71, 71, 0.24), 0 17px 50px 0 rgba(0,0,0,0.19); 
-            padding: 16px 33px;
-            font-size: 17px;
-        }  */
         #size button{
             float: left;
             margin-bottom: 20px;
@@ -51,12 +46,13 @@
             font-size: 16px;
             color: black;
             border: 1px solid #fbe9d0;
+            border-radius: 5px;
         }
         #algorithm-select option{
             font-size: 16px;
             border-radius: 0px;
             border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
-            border: 1px solid #fbe9d0;
+            border: 1px solid #fbe9d0;  
         }
         #bar-container {
             display: flex;
@@ -83,6 +79,7 @@
         <button onclick="setNumberOfBars(30)">30 Bars</button>
         <button onclick="setNumberOfBars(40)">40 Bars</button>
         <button onclick="setNumberOfBars(50)">50 Bars</button>
+        <button onclick="setNumberOfBars(100)">100 Bars</button>
     </div>
     <div id="controls">
         <select id="algorithm-select">
