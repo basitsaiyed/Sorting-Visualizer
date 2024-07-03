@@ -24,7 +24,6 @@ Sorting Visualizer is a web application that visually demonstrates various sorti
   - Heap Sort
   - Selection Sort
 - Start and stop the sorting process.
-- Bars change color to indicate when they are sorted.
 
 ## Installation
 
