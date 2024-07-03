@@ -2,6 +2,8 @@
 
 Sorting Visualizer is a web application that visually demonstrates various sorting algorithms. This tool allows users to select the number of bars to be sorted and choose from different sorting algorithms to see how each algorithm operates step-by-step.
 
+![image](https://github.com/basitsaiyed/Sorting-Visualizer/assets/91619822/5440b6df-0746-41ec-a0b4-83f0a605b16b)
+
 ## Table of Contents
 
 - [Features](#features)
